@@ -12,9 +12,6 @@ Original file is located at
 
 ---
 
-## Flowchart
-
-asdsad
 
 # Simulation results analysis
  - Objective: To master the basic method of final state simulation results analysis and understand the sequential program.
@@ -152,6 +149,4 @@ print(f"Busy Time Intervals: {busy_intervals}")
 print(f"Idle Time Intervals: {idle_intervals}")
 print(f"Purchase Time Intervals: {purchase_intervals}")
 print(f"Queue Time Intervals: {queue_intervals}")
-
-"""# ***Conclusion***"""
 
